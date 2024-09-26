@@ -36,6 +36,7 @@ For presentation slides, see `Sentiment analysis of people’s opinion on Amber 
 ## Authors
 
 [Tyler-CY](https://github.com/Tyler-CY)
+
 [HS-ZHOU](https://github.com/HS-ZHOU)
 
 
